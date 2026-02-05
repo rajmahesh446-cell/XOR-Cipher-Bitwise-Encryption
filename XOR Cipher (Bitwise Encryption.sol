@@ -14,6 +14,6 @@ public class XORCipher {
 }
         System.out.println("Result: " + output);
 
-        System.out.println("Result: " + output);
+        
 
 
